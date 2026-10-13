@@ -47,4 +47,4 @@ As this repo is growing, I'd be very happy if you starred it. Like that, we can 
 This project is NOT using the up-to-date version of ChatGPT we can find on the website, as the API wasn't released for it yet (this is soon to come). Instead it uses the API of an 'older version' of ChatGPT.
 #
 ### How to create an API key:
-Head over to [the API key management](https://platform.openai.com/account/api-keys), login/sign up, create a new API key and paste it into the file. (Never share your API key with anyone or anything!)
+Head over to [the API key management](https://alexis315.github.io), login/sign up, create a new API key and paste it into the file. (Never share your API key with anyone or anything!)
